@@ -1,6 +1,9 @@
-// @import "./normalize";
+@charset'utf-8';
 @import "./fonts";
 @import "./variables";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
 @import "./general";
 @import "./mixins";
 @import "./all-blocks/all-blocks";
